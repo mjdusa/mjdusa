@@ -2,7 +2,7 @@
 
 Hi, I'm Mike Donahue,
 
-- 🌱 I'm FOREVER learning and curious!!
+- 🌱 FOREVER learning and curious!!
 - 🤺 Security Champion Trained
 - 🏫 AWS Architect Trained (but haven't take the test yet)
 - 🧑‍🤝‍🧑 Customer 1st Oriented
