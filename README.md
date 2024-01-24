@@ -2,7 +2,7 @@
 
 Hi, I'm Mike Donahue,
 
-- 🌈 Thankfull for God's presance in my life!!
+- 🌈 Thankfull for God's presence in my life!!
 - 🌱 FOREVER curious and learning!
 - 🤺 Security Champion
 - 🏫 AWS Architect Trained (but haven't take the test yet)
