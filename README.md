@@ -2,16 +2,17 @@
 
 Hi, I'm Mike Donahue,
 
-- 🌱 FOREVER learning and curious!!
-- 🤺 Security Champion Trained
+- 🌈 Thankfull for God's presance in my life!!
+- 🌱 FOREVER curious and learning!
+- 🤺 Security Champion
 - 🏫 AWS Architect Trained (but haven't take the test yet)
 - 🧑‍🤝‍🧑 Customer 1st Oriented
-- 💻 Computer nerd
+- 💻 Computer Nerd
 - ⚡ Electronics Builder / Tinker
 - 📡 Amature (Ham) Radio Operator
 - 🔨 DIYer
-- 🏡 Goal to live green
-- 🌎 Modern day renaissance person
+- 🏡 Environmentally Conscious / Responsible
+- 🌎 Striving to become a Renaissance Person in the 21st Century
 
 ![GitHub followers](https://img.shields.io/github/followers/mjdusa)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mjdusa.mjdusa)
