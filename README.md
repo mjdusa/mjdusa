@@ -25,6 +25,7 @@ Hi, I'm Mike Donahue,
 
 
 ## 🎨 My Favorite Languages and Tools
+[Run It](https://goplay.tools/snippet/-grJEgEVGSj)
 ```go
 package main
 
