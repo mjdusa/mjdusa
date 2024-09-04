@@ -8,11 +8,11 @@ Hi, I'm Mike Donahue,
 - 🏫 AWS Architect Trained (but haven't take the test yet)
 - 🧑‍🤝‍🧑 Customer 1st Oriented
 - 💻 Computer Nerd
+- 🔨 DIYer
 - ⚡ Electronics Builder / Tinker
 - 📡 Amature (Ham) Radio Operator
-- 🔨 DIYer
 - 🏡 Environmentally Conscious / Responsible
-- 🌎 Striving to become a Renaissance Person in the 21st Century
+- 🌎 Striving to become a Renaissance Person in the 21st Century (polymath / polyglot)
 
 ![GitHub followers](https://img.shields.io/github/followers/mjdusa)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mjdusa.mjdusa)
